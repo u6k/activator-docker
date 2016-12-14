@@ -1,0 +1,2 @@
+# activator-docker
+Typesafe Activatorを使用するアプリケーション開発のためのDockerイメージを作成します。
